@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
+<fullyQualifiedTypeName name="org.json.JSONArray"/>
+<fullyQualifiedTypeName name="org.json.JSONObject"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="org.json.JSONException"/>
+<fullyQualifiedTypeName name="external.ExternalAPI"/>
+<fullyQualifiedTypeName name="external.ExternalAPIFactory"/>
+<fullyQualifiedTypeName name="java.sql.SQLException"/>
+<fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+<fullyQualifiedTypeName name="db.mysql.MySQLConnection"/>
+<fullyQualifiedTypeName name="algorithm.GeoRecommendation"/>
+<fullyQualifiedTypeName name="db.DBConnection"/>
+<fullyQualifiedTypeName name="db.DBConnectionFactory"/>
+<fullyQualifiedTypeName name="java.util.HashSet"/>
+<fullyQualifiedTypeName name="java.sql.ResultSet"/>
+<fullyQualifiedTypeName name="entity.Item.ItemBuilder"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="entity.Item"/>
+<fullyQualifiedTypeName name="db.mongodb.MongoDBConnection"/>
+<fullyQualifiedTypeName name="com.mongodb.MongoClient"/>
+<fullyQualifiedTypeName name="db.mongodb.MongoDBUtil"/>
+<fullyQualifiedTypeName name="com.mongodb.client.MongoDatabase"/>
+</qualifiedTypeNameHistroy>
